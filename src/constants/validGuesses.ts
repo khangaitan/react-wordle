@@ -329,6 +329,7 @@ export const VALID_GUESSES = [
   'alpha',
   'altar',
   'alter',
+  'altex',
   'altho',
   'altos',
   'alula',
